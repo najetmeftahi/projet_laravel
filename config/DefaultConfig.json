@@ -1,0 +1,18 @@
+{
+  "HoursPerDay": 8,
+  "WorkingDays": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "holidays": [
+    "2021-10-08",
+    "2021-10-15"
+  ],
+  "db_server": "127.0.0.1",
+  "db_user": "Admin",
+  "db_pass": "Admin",
+  "db_name": ""
+}
